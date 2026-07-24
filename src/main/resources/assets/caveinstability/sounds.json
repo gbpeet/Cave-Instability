@@ -1,0 +1,26 @@
+{
+  "heavy_rumble": {
+    "subtitle": "subtitles.caveinstability.heavy_rumble",
+    "sounds": [
+      "caveinstability:heavy-rumble"
+    ]
+  },
+  "light_crumble": {
+    "subtitle": "subtitles.caveinstability.light_crumble",
+    "sounds": [
+      "caveinstability:light-crumble"
+    ]
+  },
+  "medium_crumble": {
+    "subtitle": "subtitles.caveinstability.medium_crumble",
+    "sounds": [
+      "caveinstability:medium-crumble"
+    ]
+  },
+  "quick_light_collapse": {
+    "subtitle": "subtitles.caveinstability.quick_light_collapse",
+    "sounds": [
+      "caveinstability:quick-light-collapse"
+    ]
+  }
+}

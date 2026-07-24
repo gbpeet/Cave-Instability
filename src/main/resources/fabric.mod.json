@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "caveinstability",
+  "version": "${version}",
+  "name": "Cave-Instability",
+  "description": "Adds connected cave in mechanics with configurable spread, decay, and debris behavior.",
+  "authors": [
+    "Itinerant"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/caveinstability/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.itinerant.caveinstability.CaveInstabilityMod"
+    ],
+    "modmenu": [
+      "com.itinerant.caveinstability.client.CaveInstabilityModMenu"
+    ]
+  },
+  "mixins": [
+    "caveinstability.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*",
+    "cloth-config2": "*"
+  }
+}
