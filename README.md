@@ -1,7 +1,7 @@
 # Cave-Instability
 
 <p align="center">
-  <img src="assets/caveinstability/icon.png" alt="Cave-Instability Icon" width="128">
+  <img src="docs/screenshots/icon.png" alt="Cave-Instability Icon" width="128">
 </p>
 
 > **Dig carefully—every block you remove could bring the cave down around you.**
@@ -88,3 +88,17 @@ Works with both vanilla and modded blocks through configurable block IDs and blo
 ## License
 
 Released under the MIT License.
+
+---
+
+<p align="center">
+  <img src="docs/screenshots/itinerant-mods-logo.png" alt="Itinerant Mods" width="128">
+</p>
+
+<p align="center">
+
+**Part of the Itinerant Mods Collection**
+
+Creating immersive, configurable, and performance-conscious Minecraft mods for Fabric.
+
+</p>
