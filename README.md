@@ -1,7 +1,7 @@
 # Cave-Instability
 
 <p align="center">
-  <img src="docs/screenshots/icon.png" alt="Cave-Instability Icon" width="128">
+  <img src="docs/screenshots/cave-instability-icon.png" alt="Cave-Instability Icon" width="128">
 </p>
 
 > **Dig carefully—every block you remove could bring the cave down around you.**
