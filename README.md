@@ -16,76 +16,112 @@ Whether you want subtle environmental hazards or brutally unforgiving undergroun
 
 ---
 
-## Features
+# Functional Support Pillars
 
-- 🪨 Configurable cave-in chance for individual blocks and block tags
-- ⛏️ Localized cave-in propagation with configurable horizontal and vertical limits
-- 💥 Falling debris impact sounds and block-based dust particles
-- 🏔️ Optional downhill debris sliding for natural rubble piles
-- 🌋 Collapse of unsupported floating block groups
-- 📏 Configurable maximum floating-group search size
-- 🏗️ Functional floor-to-ceiling support pillars
-- 🧱 Configurable support materials
-- 📐 Adjustable support radius
-- ⚙️ Adjustable support detection above and below the trigger point
-- 🧩 Full Mod Menu and Cloth Config integration
-- 🌍 Compatible with both vanilla and modded blocks through block IDs and tags
-- ⚡ Designed for survival gameplay with minimal performance impact
+Support pillars provide structural reinforcement to nearby cave ceilings. Build them from any configured support material to stabilize dangerous excavations and prevent nearby cave-ins.
+
+> **TODO:** Replace this screenshot with a looping GIF showing a collapse prevented by a completed support pillar.
+
+<p align="center">
+  <img src="docs/screenshots/Cave-Instability-ceiling-support.png" width="800">
+</p>
 
 ---
 
-## How It Works
+# Progressive Cave Collapses
 
-Every time you remove a supporting block, Cave-Instability evaluates the surrounding terrain for structural stability.
+Mining a single supporting block can trigger a localized cave-in that spreads naturally through weakened rock. Every excavation becomes a calculated risk.
 
-Small cave-ins may remain localized, while larger collapses can propagate through weakened rock, producing dramatic chain reactions. Loose debris settles naturally, creating cave floors that look shaped by gravity instead of game logic.
+> **TODO:** Replace with a GIF showing the collapse sequence.
 
-Strategically placed support pillars allow players to reinforce dangerous excavations, making careful engineering just as important as careful mining.
+<p align="center">
+  <img src="docs/screenshots/Cave-Instability-cave-before-collapse.png" width="800">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/Cave-Instability-collapsing-blocks.png" width="800">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/Cave-Instability-cave-after-collapse.png" width="800">
+</p>
 
 ---
 
-## Configuration
+# Natural Debris Piles
 
-Nearly every aspect of Cave-Instability can be customized through Mod Menu, including:
+Collapsed material doesn't simply fall straight down. Debris can slide downhill after impact, creating rubble piles that look naturally formed.
+
+> **TODO:** Replace with a GIF highlighting debris sliding.
+
+<p align="center">
+  <img src="docs/screenshots/Cave-Instability-cave-after-collapse.png" width="800">
+</p>
+
+---
+
+# Floating Formation Collapse
+
+Unsupported floating terrain no longer remains suspended forever. Large connected formations can collapse once they lose all structural support.
+
+> **TODO:** Replace these screenshots with a GIF.
+
+<p align="center">
+  <img src="docs/screenshots/Cave-Instability-suspended-formation.png" width="800">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/Cave-Instability-suspended-formation-collapsing.png" width="800">
+</p>
+
+---
+
+# Extensive Configuration
+
+Nearly every aspect of Cave-Instability can be customized through Mod Menu.
 
 - Collapse probability
 - Propagation limits
-- Floating-group detection
 - Debris sliding
+- Floating group detection
 - Support pillar behavior
 - Support materials
-- Support radius
-- Dust particle intensity
+- Search radius
+- Dust particles
 - Sound effects
 
-This allows players to create anything from occasional cave-ins to extremely hazardous underground environments.
+### General Settings
+
+<p align="center">
+  <img src="docs/screenshots/Cave-Instability-general-settings.png" width="800">
+</p>
+
+### Collapsible Materials
+
+<p align="center">
+  <img src="docs/screenshots/Cave-Instability-Mod-Menu-collapsible-materials.png" width="800">
+</p>
+
+### Support Configuration
+
+<p align="center">
+  <img src="docs/screenshots/Cave-Instability-Mod-Menu-supports.png" width="800">
+</p>
 
 ---
 
-## Screenshots
-
-*Screenshots coming soon.*
-
----
-
-## Showcase Video
-
-*Coming soon.*
-
----
-
-## Compatibility
+# Compatibility
 
 - Minecraft **1.21.1**
 - Fabric Loader
 - Fabric API
 - Mod Menu (recommended)
 
-Works with both vanilla and modded blocks through configurable block IDs and block tags.
+Compatible with both vanilla and modded blocks through configurable block IDs and block tags.
 
 ---
 
-## License
+# License
 
 Released under the MIT License.
 
