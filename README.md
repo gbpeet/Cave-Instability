@@ -122,12 +122,14 @@ You may use the mod for personal use and include it in modpacks. Redistribution,
 
 © 2026 Itinerant Mods
 
----
+## Support
 
-<p align="center">
-  <img src="docs/screenshots/itinerant-mods-logo.png" alt="Itinerant Mods" width="128">
-</p>
+If you enjoy my mods and would like to support future development, you can find **Itinerant Mods** on Ko-fi.
 
-<p align="center">
-  <strong>Itinerant Mods</strong>
-</p>
+## Author
+
+<img src="docs/screenshots/itinerant-mods-logo.png" alt="Itinerant Mods logo" width="96">
+
+Created by **Itinerant Mods**.
+
+[Ko-fi](https://ko-fi.com/itinerantmods) • [YouTube](https://youtube.com/@itinerantmods)
