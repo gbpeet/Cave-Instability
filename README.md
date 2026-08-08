@@ -86,7 +86,7 @@ Block IDs and tags can be used throughout the configuration, making Cave-Instabi
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/cave-instability-mod-menu-collapsible-materials.png" alt="Configurable collapsible materials">
+  <img src="docs/screenshots/cave-instability-mod-menu-collapsible.png" alt="Configurable collapsible materials">
 </p>
 
 <p align="center">
