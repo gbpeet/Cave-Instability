@@ -112,6 +112,16 @@ Designed to support both vanilla and modded blocks through Minecraft block IDs a
 * Mod Menu
 * Cloth Config API
 
+## License
+
+**All Rights Reserved.**
+
+Cave-Instability and its source code are publicly available for viewing and reference purposes only.
+
+You may use the mod for personal use and include it in modpacks. Redistribution, rehosting, modification, or publication of modified or ported versions of the mod is not permitted without explicit permission from the author.
+
+© 2026 Itinerant Mods
+
 ---
 
 <p align="center">
